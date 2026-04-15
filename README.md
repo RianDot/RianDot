@@ -1,6 +1,6 @@
 # ⋆˚꩜｡ RianDot
 **`Desenvolvedor Backend`<br>**
-Me chamo Rian Machado, tenho 19 anos e sou do Rio de Janeiro.
+Me chamo Rian Machado, tenho 19 anos e sou de Campos dos Goytacazes - RJ.
 Sou um dev junior backend focado em Java,com conhecimentos em Frontend.
 No meu perfil estarei postando projetos web,atualizando eles e mostrando meu progresso.
 
